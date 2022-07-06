@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "688280762161",
+    "firebase_url": "https://flutterfirebase-2be5d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterfirebase-2be5d",
+    "storage_bucket": "flutterfirebase-2be5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688280762161:android:ee871a7d69502400b86210",
+        "android_client_info": {
+          "package_name": "com.example.firestore_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688280762161-tbth11b8b7jvt0cbjvjra6kdnunqvs2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestore_example",
+            "certificate_hash": "a6593a506cd41aac07250f0fdaa63f4eaf29e3a9"
+          }
+        },
+        {
+          "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujf98cqwi29t4R2UTbKABgc0eM_jOOC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688280762161:android:659516d61ba6103bb86210",
+        "android_client_info": {
+          "package_name": "com.example.flutter_realtime_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688280762161-ic5p6kj9tl9rktjjihra8ea2e231j2tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_realtime_demo_app",
+            "certificate_hash": "a6593a506cd41aac07250f0fdaa63f4eaf29e3a9"
+          }
+        },
+        {
+          "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujf98cqwi29t4R2UTbKABgc0eM_jOOC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688280762161:android:2b203fc19b1357e5b86210",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688280762161-thc5f84kockli8ku4fih5es5ef55qaiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterfirebase",
+            "certificate_hash": "a6593a506cd41aac07250f0fdaa63f4eaf29e3a9"
+          }
+        },
+        {
+          "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujf98cqwi29t4R2UTbKABgc0eM_jOOC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688280762161:android:c4df11de6fb5c9fab86210",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688280762161-255g4rn8fhn5snq361jbk0cauktem254.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterfirebase1",
+            "certificate_hash": "a6593a506cd41aac07250f0fdaa63f4eaf29e3a9"
+          }
+        },
+        {
+          "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujf98cqwi29t4R2UTbKABgc0eM_jOOC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688280762161:android:c02171b4907b6bacb86210",
+        "android_client_info": {
+          "package_name": "com.example.simple_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688280762161-m82f7hj9vn0cf4o446hag26nj44gjuiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simple_inventory",
+            "certificate_hash": "a6593a506cd41aac07250f0fdaa63f4eaf29e3a9"
+          }
+        },
+        {
+          "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujf98cqwi29t4R2UTbKABgc0eM_jOOC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688280762161-q7v79dr66saqassd7ibof2ft2d68on4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
